@@ -1,5 +1,7 @@
 # Hello World! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
+Long is the way and hard  that out of Hell leads up to light.
+
 You can find me on [![Twitter][1.2]][1] or [![LinkedIn][2.2]][2].
 
 ![github stats](https://github-readme-stats.vercel.app/api?username=darionyaphet&show_icons=true&line_height=24&count_private=true&theme=vue)
